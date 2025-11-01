@@ -20,7 +20,3 @@ It includes a structured layout, typography, and styling principles that ensure 
 - **HTML5** – for the structure and content  
 - **CSS3** – for design and responsiveness  
 
-## Project Preview
-
-> (Include a screenshot or preview of the business card here)
-
