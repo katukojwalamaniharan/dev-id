@@ -1,25 +1,26 @@
-# 💼 Digital Business Card
+# Digital Business Card
 
-A simple and elegant **digital business card** built using **HTML and CSS**, designed to showcase my name, contact details, and frontend skills in a clean layout.
+This project is a responsive and minimal **digital business card** built using **HTML and CSS**.  
+It is designed to present essential personal and professional details in a simple, modern, and visually appealing way.
 
-## 🎯 Overview
+## Overview
 
-This project is a minimal web-based business card that represents me as a frontend developer.  
-It’s lightweight, responsive, and focuses purely on design — no JavaScript required!
+The purpose of this project is to demonstrate frontend design skills using only core web technologies.  
+It includes a structured layout, typography, and styling principles that ensure readability and a professional appearance across devices.
 
-## 🛠️ Tech Stack
+## Features
 
-- **HTML5** – for structure  
-- **CSS3** – for styling and layout  
+- Responsive design adaptable to all screen sizes  
+- Minimal and modern user interface  
+- Organized layout for personal information  
+- Lightweight and fast loading  
 
-## ✨ Features
+## Technologies Used
 
-- 🧾 Clean and professional design  
-- 📱 Fully responsive for mobile and desktop  
-- 🎨 Smooth hover effects and typography  
-- 💡 Easy to customize with your own details  
+- **HTML5** – for the structure and content  
+- **CSS3** – for design and responsiveness  
 
-## 🖼️ Preview
+## Project Preview
 
-> _Add a screenshot of your business card UI here_
+> (Include a screenshot or preview of the business card here)
 
